@@ -35,4 +35,4 @@ java SportArena update-results <tournament_id>
 Ліцензія
 Цей проект має ліцензію MIT.
 
-© 2024 Shulynetsh Liubomyr. Всі права захищені.
+© 2024 MamaLilsha. Всі права захищені.
